@@ -1,4 +1,5 @@
 <?php
+namespace MiW\Results\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 
