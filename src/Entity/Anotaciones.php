@@ -43,5 +43,61 @@ class Anotaciones
      */
     private $pruebaid;
 
+    /**
+     * @return int
+     */
+    public function getId(): int
+    {
+        return $this->id;
+    }
+
+    /**
+     * @return string
+     */
+    public function getTexto(): string
+    {
+        return $this->texto;
+    }
+
+    /**
+     * @param string $texto
+     */
+    public function setTexto(string $texto): void
+    {
+        $this->texto = $texto;
+    }
+
+    /**
+     * @return int
+     */
+    public function getFecha(): int
+    {
+        return $this->fecha;
+    }
+
+    /**
+     * @param int $fecha
+     */
+    public function setFecha(int $fecha): void
+    {
+        $this->fecha = $fecha;
+    }
+
+    /**
+     * @return Prueba
+     */
+    public function getPruebaid(): Prueba
+    {
+        return $this->pruebaid;
+    }
+
+    /**
+     * @param Prueba $pruebaid
+     */
+    public function setPruebaid(Prueba $pruebaid): void
+    {
+        $this->pruebaid = $pruebaid;
+    }
+
 
 }
