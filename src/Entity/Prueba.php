@@ -90,9 +90,11 @@ class Prueba implements \JsonSerializable
     public function jsonSerialize()
     {
        return [
-           'id' => $this->getId(),
-           'nombre' => $this->getNombre(),
-           'precio' => $this->getPrecio()
+          'prueba' => [
+               'id' => $this->getId(),
+               'nombre' => $this->getNombre(),
+               'precio' => $this->getPrecio()
+           ]
        ];
     }
 
