@@ -1,0 +1,431 @@
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> composer install
+No composer.lock file present. Updating dependencies to latest instead of installing from lock file. See https://getcomposer.org/install for more information.
+Loading composer repositories with package information
+Info from https://repo.packagist.org: #StandWithUkraine
+Updating dependencies
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - phpunit/phpunit[7.4.0, ..., 7.5.20] require php ^7.1 -> your php version (8.0.19) does not satisfy that requirement.
+    - Root composer.json requires phpunit/phpunit ^7.4 -> satisfiable by phpunit/phpunit[7.4.0, ..., 7.5.20].
+
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> composer install
+No composer.lock file present. Updating dependencies to latest instead of installing from lock file. See https://getcomposer.org/install for more information.
+Loading composer repositories with package information
+Info from https://repo.packagist.org: #StandWithUkraine
+Updating dependencies
+Lock file operations: 52 installs, 0 updates, 0 removals
+  - Locking doctrine/cache (2.2.0)
+  - Locking doctrine/collections (1.6.8)
+  - Locking doctrine/common (3.3.0)
+  - Locking doctrine/dbal (3.3.7)
+  - Locking doctrine/deprecations (v1.0.0)
+  - Locking doctrine/event-manager (1.1.2)
+  - Locking doctrine/inflector (2.0.4)
+  - Locking doctrine/instantiator (1.4.1)
+  - Locking doctrine/lexer (1.2.3)
+  - Locking doctrine/orm (2.12.3)
+  - Locking doctrine/persistence (3.0.2)
+  - Locking myclabs/deep-copy (1.11.0)
+  - Locking phar-io/manifest (2.0.3)
+  - Locking phar-io/version (3.2.1)
+  - Locking phpdocumentor/reflection-common (2.2.0)
+  - Locking phpdocumentor/reflection-docblock (5.3.0)
+  - Locking phpdocumentor/type-resolver (1.6.1)
+  - Locking phpspec/prophecy (v1.15.0)
+  - Locking phpunit/php-code-coverage (7.0.15)
+  - Locking phpunit/php-file-iterator (2.0.5)
+  - Locking phpunit/php-text-template (1.2.1)
+  - Locking phpunit/php-timer (2.1.3)
+  - Locking phpunit/php-token-stream (4.0.4)
+  - Locking phpunit/phpunit (8.5.28)
+  - Locking psr/cache (3.0.0)
+  - Locking psr/container (2.0.2)
+  - Locking psr/log (3.0.0)
+  - Locking roave/security-advisories (dev-master 83594c2)
+  - Locking sebastian/code-unit-reverse-lookup (1.0.2)
+  - Locking sebastian/comparator (3.0.3)
+  - Locking sebastian/diff (3.0.3)
+  - Locking sebastian/environment (4.2.4)
+  - Locking sebastian/exporter (3.1.4)
+  - Locking sebastian/global-state (3.0.2)
+  - Locking sebastian/object-enumerator (3.0.4)
+  - Locking sebastian/object-reflector (1.1.2)
+  - Locking sebastian/recursion-context (3.0.1)
+  - Locking sebastian/resource-operations (2.0.2)
+  - Locking sebastian/type (1.1.4)
+  - Locking sebastian/version (2.0.1)
+  - Locking symfony/console (v6.0.11)
+  - Locking symfony/polyfill-ctype (v1.26.0)
+  - Locking symfony/polyfill-intl-grapheme (v1.26.0)
+  - Locking symfony/polyfill-intl-normalizer (v1.26.0)
+  - Locking symfony/polyfill-mbstring (v1.26.0)
+  - Locking symfony/polyfill-php72 (v1.26.0)
+  - Locking symfony/polyfill-php80 (v1.26.0)
+  - Locking symfony/service-contracts (v3.0.2)
+  - Locking symfony/string (v6.0.11)
+  - Locking theseer/tokenizer (1.2.1)
+  - Locking vlucas/phpdotenv (v2.6.9)
+  - Locking webmozart/assert (1.11.0)
+Writing lock file
+Installing dependencies from lock file (including require-dev)
+Package operations: 52 installs, 0 updates, 0 removals
+  - Downloading phpunit/php-token-stream (4.0.4)
+  - Downloading sebastian/version (2.0.1)
+  - Downloading sebastian/type (1.1.4)
+  - Downloading sebastian/resource-operations (2.0.2)
+  - Downloading sebastian/recursion-context (3.0.1)
+  - Downloading sebastian/object-reflector (1.1.2)
+  - Downloading sebastian/object-enumerator (3.0.4)
+  - Downloading sebastian/global-state (3.0.2)
+  - Downloading sebastian/exporter (3.1.4)
+  - Downloading sebastian/environment (4.2.4)
+  - Downloading sebastian/diff (3.0.3)
+  - Downloading sebastian/comparator (3.0.3)
+  - Downloading phpunit/php-timer (2.1.3)
+  - Downloading phpunit/php-text-template (1.2.1)
+  - Downloading phpunit/php-file-iterator (2.0.5)
+  - Downloading sebastian/code-unit-reverse-lookup (1.0.2)
+  - Downloading phpunit/php-code-coverage (7.0.15)
+  - Downloading phpunit/phpunit (8.5.28)
+  - Downloading vlucas/phpdotenv (v2.6.9)
+  - Installing symfony/polyfill-php80 (v1.26.0): Extracting archive
+  - Installing symfony/polyfill-php72 (v1.26.0): Extracting archive
+  - Installing symfony/polyfill-mbstring (v1.26.0): Extracting archive
+  - Installing symfony/polyfill-intl-normalizer (v1.26.0): Extracting archive
+  - Installing symfony/polyfill-intl-grapheme (v1.26.0): Extracting archive
+  - Installing symfony/polyfill-ctype (v1.26.0): Extracting archive
+  - Installing symfony/string (v6.0.11): Extracting archive
+  - Installing psr/container (2.0.2): Extracting archive
+  - Installing symfony/service-contracts (v3.0.2): Extracting archive
+  - Installing symfony/console (v6.0.11): Extracting archive
+  - Installing psr/cache (3.0.0): Extracting archive
+  - Installing doctrine/event-manager (1.1.2): Extracting archive
+  - Installing doctrine/collections (1.6.8): Extracting archive
+  - Installing doctrine/persistence (3.0.2): Extracting archive
+  - Installing doctrine/lexer (1.2.3): Extracting archive
+  - Installing doctrine/instantiator (1.4.1): Extracting archive
+  - Installing doctrine/inflector (2.0.4): Extracting archive
+  - Installing doctrine/deprecations (v1.0.0): Extracting archive
+  - Installing psr/log (3.0.0): Extracting archive
+  - Installing doctrine/cache (2.2.0): Extracting archive
+  - Installing doctrine/dbal (3.3.7): Extracting archive
+  - Installing doctrine/common (3.3.0): Extracting archive
+  - Installing doctrine/orm (2.12.3): Extracting archive
+  - Installing webmozart/assert (1.11.0): Extracting archive
+  - Installing phpdocumentor/reflection-common (2.2.0): Extracting archive
+  - Installing phpdocumentor/type-resolver (1.6.1): Extracting archive
+  - Installing phpdocumentor/reflection-docblock (5.3.0): Extracting archive
+  - Installing phpunit/php-token-stream (4.0.4): Extracting archive
+  - Installing sebastian/version (2.0.1): Extracting archive
+  - Installing sebastian/type (1.1.4): Extracting archive
+  - Installing sebastian/resource-operations (2.0.2): Extracting archive
+  - Installing sebastian/recursion-context (3.0.1): Extracting archive
+  - Installing sebastian/object-reflector (1.1.2): Extracting archive
+  - Installing sebastian/object-enumerator (3.0.4): Extracting archive
+  - Installing sebastian/global-state (3.0.2): Extracting archive
+  - Installing sebastian/exporter (3.1.4): Extracting archive
+  - Installing sebastian/environment (4.2.4): Extracting archive
+  - Installing sebastian/diff (3.0.3): Extracting archive
+  - Installing sebastian/comparator (3.0.3): Extracting archive
+  - Installing phpunit/php-timer (2.1.3): Extracting archive
+  - Installing phpunit/php-text-template (1.2.1): Extracting archive
+  - Installing phpunit/php-file-iterator (2.0.5): Extracting archive
+  - Installing theseer/tokenizer (1.2.1): Extracting archive
+  - Installing sebastian/code-unit-reverse-lookup (1.0.2): Extracting archive
+  - Installing phpunit/php-code-coverage (7.0.15): Extracting archive
+  - Installing phpspec/prophecy (v1.15.0): Extracting archive
+  - Installing phar-io/version (3.2.1): Extracting archive
+  - Installing phar-io/manifest (2.0.3): Extracting archive
+  - Installing myclabs/deep-copy (1.11.0): Extracting archive
+  - Installing phpunit/phpunit (8.5.28): Extracting archive
+  - Installing roave/security-advisories (dev-master 83594c2)
+  - Installing vlucas/phpdotenv (v2.6.9): Extracting archive
+14 package suggestions were added by new dependencies, use `composer suggest` to see details.
+Package phpunit/php-token-stream is abandoned, you should avoid using it. No replacement was suggested.
+Generating autoload files
+37 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> .\bin\doctrine
+[Warning] The use of this script is discouraged. See https://www.doctrine-project.org/projects/doctrine-orm/en/current/reference/tools.html#doctrine-console for instructions on bootstrapping the console runner.
+
+
+PHP Fatal error:  Uncaught TypeError: Doctrine\ORM\Tools\Setup::createCacheConfiguration(): Argument #1 ($isDevMode) must be of type bool, string given, called in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 188 and defined in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php:202
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(188): Doctrine\ORM\Tools\Setup::createCacheConfiguration('0', 'C:\\Users\\seiji\\...', NULL)
+#1 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(85): Doctrine\ORM\Tools\Setup::createConfiguration('0', 'C:\\Users\\seiji\\...', NULL)
+#2 C:\xampp\htdocs\PHP-MiW-PR1-master\src\Utils.php(52): Doctrine\ORM\Tools\Setup::createAnnotationMetadataConfiguration(Array, '0', '', NULL, false)
+#3 C:\xampp\htdocs\PHP-MiW-PR1-master\cli-config.php(31): MiW\Results\Utils::getEntityManager()
+#4 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine.php(51): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine(4): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\PHP-MiW-PR1-master\bin\doctrine(120): include('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 202
+
+Fatal error: Uncaught TypeError: Doctrine\ORM\Tools\Setup::createCacheConfiguration(): Argument #1 ($isDevMode) must be of type bool, string given, called in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 188 and defined in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php:202
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(188): Doctrine\ORM\Tools\Setup::createCacheConfiguration('0', 'C:\\Users\\seiji\\...', NULL)
+#1 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(85): Doctrine\ORM\Tools\Setup::createConfiguration('0', 'C:\\Users\\seiji\\...', NULL)
+#2 C:\xampp\htdocs\PHP-MiW-PR1-master\src\Utils.php(52): Doctrine\ORM\Tools\Setup::createAnnotationMetadataConfiguration(Array, '0', '', NULL, false)
+#3 C:\xampp\htdocs\PHP-MiW-PR1-master\cli-config.php(31): MiW\Results\Utils::getEntityManager()
+#4 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine.php(51): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine(4): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\PHP-MiW-PR1-master\bin\doctrine(120): include('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 202
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> .\bin\doctrine
+[Warning] The use of this script is discouraged. See https://www.doctrine-project.org/projects/doctrine-orm/en/current/reference/tools.html#doctrine-console for instructions on bootstrapping the console runner.
+
+
+PHP Fatal error:  Uncaught TypeError: Doctrine\ORM\Tools\Setup::createCacheConfiguration(): Argument #1 ($isDevMode) must be of type bool, string given, called in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 188 and defined in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php:202
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(188): Doctrine\ORM\Tools\Setup::createCacheConfiguration('true', 'C:\\Users\\seiji\\...', NULL)
+#1 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(85): Doctrine\ORM\Tools\Setup::createConfiguration('true', 'C:\\Users\\seiji\\...', NULL)
+#2 C:\xampp\htdocs\PHP-MiW-PR1-master\src\Utils.php(52): Doctrine\ORM\Tools\Setup::createAnnotationMetadataConfiguration(Array, 'true', '', NULL, false)
+#3 C:\xampp\htdocs\PHP-MiW-PR1-master\cli-config.php(31): MiW\Results\Utils::getEntityManager()
+#4 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine.php(51): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine(4): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\PHP-MiW-PR1-master\bin\doctrine(120): include('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 202
+
+Fatal error: Uncaught TypeError: Doctrine\ORM\Tools\Setup::createCacheConfiguration(): Argument #1 ($isDevMode) must be of type bool, string given, called in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 188 and defined in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php:202
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(188): Doctrine\ORM\Tools\Setup::createCacheConfiguration('true', 'C:\\Users\\seiji\\...', NULL)
+#1 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(85): Doctrine\ORM\Tools\Setup::createConfiguration('true', 'C:\\Users\\seiji\\...', NULL)
+#2 C:\xampp\htdocs\PHP-MiW-PR1-master\src\Utils.php(52): Doctrine\ORM\Tools\Setup::createAnnotationMetadataConfiguration(Array, 'true', '', NULL, false)
+#3 C:\xampp\htdocs\PHP-MiW-PR1-master\cli-config.php(31): MiW\Results\Utils::getEntityManager()
+#4 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine.php(51): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine(4): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\PHP-MiW-PR1-master\bin\doctrine(120): include('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 202
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> composer up
+Loading composer repositories with package information
+Info from https://repo.packagist.org: #StandWithUkraine
+Updating dependencies
+Nothing to modify in lock file
+Installing dependencies from lock file (including require-dev)
+Nothing to install, update or remove
+Package phpunit/php-token-stream is abandoned, you should avoid using it. No replacement was suggested.
+Generating autoload files
+37 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> .\bin\doctrine
+[Warning] The use of this script is discouraged. See https://www.doctrine-project.org/projects/doctrine-orm/en/current/reference/tools.html#doctrine-console for instructions on bootstrapping the console runner.
+
+
+PHP Fatal error:  Uncaught RuntimeException: Setup tool cannot configure caches without doctrine/cache 1.11 or symfony/cache. Please add an explicit dependency to either library. in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php:228
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(204): Doctrine\ORM\Tools\Setup::createCacheInstance(true, NULL)
+#1 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(188): Doctrine\ORM\Tools\Setup::createCacheConfiguration(true, 'C:\\Users\\seiji\\...', NULL)
+#2 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(85): Doctrine\ORM\Tools\Setup::createConfiguration(true, 'C:\\Users\\seiji\\...', NULL)
+#3 C:\xampp\htdocs\PHP-MiW-PR1-master\src\Utils.php(52): Doctrine\ORM\Tools\Setup::createAnnotationMetadataConfiguration(Array, true, '', NULL, false)
+#4 C:\xampp\htdocs\PHP-MiW-PR1-master\cli-config.php(31): MiW\Results\Utils::getEntityManager()
+#5 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine.php(51): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine(4): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\PHP-MiW-PR1-master\bin\doctrine(120): include('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 228
+
+Fatal error: Uncaught RuntimeException: Setup tool cannot configure caches without doctrine/cache 1.11 or symfony/cache. Please add an explicit dependency to either library. in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php:228
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(204): Doctrine\ORM\Tools\Setup::createCacheInstance(true, NULL)
+#1 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(188): Doctrine\ORM\Tools\Setup::createCacheConfiguration(true, 'C:\\Users\\seiji\\...', NULL)
+#2 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(85): Doctrine\ORM\Tools\Setup::createConfiguration(true, 'C:\\Users\\seiji\\...', NULL)
+#3 C:\xampp\htdocs\PHP-MiW-PR1-master\src\Utils.php(52): Doctrine\ORM\Tools\Setup::createAnnotationMetadataConfiguration(Array, true, '', NULL, false)
+#4 C:\xampp\htdocs\PHP-MiW-PR1-master\cli-config.php(31): MiW\Results\Utils::getEntityManager()
+#5 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine.php(51): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine(4): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\PHP-MiW-PR1-master\bin\doctrine(120): include('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php on line 228
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> require doctrine/cache 1.11
+require : El término 'require' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ require doctrine/cache 1.11
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (require:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> composer require doctrine/cache 1.11
+./composer.json has been updated
+Running composer update doctrine/cache
+Loading composer repositories with package information
+Info from https://repo.packagist.org: #StandWithUkraine
+Updating dependencies
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - Root composer.json requires doctrine/cache 1.11, found doctrine/cache[1.11.0] but these were not loaded, likely because it conflicts with another require.
+  Problem 2
+    - doctrine/orm is locked to version 2.12.3 and an update of this package was not requested.
+    - doctrine/orm 2.12.3 requires doctrine/cache ^1.12.1 || ^2.1.1 -> found doctrine/cache[1.12.1, 1.13.0, 2.1.1, 2.2.0] but it conflicts with your root composer.json require (1.11).
+
+Use the option --with-all-dependencies (-W) to allow upgrades, downgrades and removals for packages currently locked to specific versions.
+
+Installation failed, reverting ./composer.json and ./composer.lock to their original content.
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> composer require symfony/cache
+Using version ^6.0 for symfony/cache
+./composer.json has been updated
+Running composer update symfony/cache
+Loading composer repositories with package information
+Updating dependencies
+Lock file operations: 3 installs, 0 updates, 0 removals
+  - Locking symfony/cache (v6.0.11)
+  - Locking symfony/cache-contracts (v3.0.2)
+  - Locking symfony/var-exporter (v6.0.10)
+Writing lock file
+Installing dependencies from lock file (including require-dev)
+Package operations: 3 installs, 0 updates, 0 removals
+  - Installing symfony/var-exporter (v6.0.10): Extracting archive
+  - Installing symfony/cache-contracts (v3.0.2): Extracting archive
+  - Installing symfony/cache (v6.0.11): Extracting archive
+Package phpunit/php-token-stream is abandoned, you should avoid using it. No replacement was suggested.
+Generating autoload files
+40 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> composer up
+Loading composer repositories with package information
+Updating dependencies
+Lock file operations: 6 installs, 17 updates, 1 removal
+  - Removing phpunit/php-token-stream (4.0.4)
+  - Locking nikic/php-parser (v4.14.0)
+  - Upgrading phpunit/php-code-coverage (7.0.15 => 9.2.15)
+  - Upgrading phpunit/php-file-iterator (2.0.5 => 3.0.6)
+  - Locking phpunit/php-invoker (3.1.1)
+  - Upgrading phpunit/php-text-template (1.2.1 => 2.0.4)
+  - Upgrading phpunit/php-timer (2.1.3 => 5.0.3)
+  - Upgrading phpunit/phpunit (8.5.28 => 9.5.21)
+  - Locking sebastian/cli-parser (1.0.1)
+  - Locking sebastian/code-unit (1.0.8)
+  - Upgrading sebastian/code-unit-reverse-lookup (1.0.2 => 2.0.3)
+  - Upgrading sebastian/comparator (3.0.3 => 4.0.6)
+  - Locking sebastian/complexity (2.0.2)
+  - Upgrading sebastian/diff (3.0.3 => 4.0.4)
+  - Upgrading sebastian/environment (4.2.4 => 5.1.4)
+  - Upgrading sebastian/exporter (3.1.4 => 4.0.4)
+  - Upgrading sebastian/global-state (3.0.2 => 5.0.5)
+  - Locking sebastian/lines-of-code (1.0.3)
+  - Upgrading sebastian/object-enumerator (3.0.4 => 4.0.4)
+  - Upgrading sebastian/object-reflector (1.1.2 => 2.0.4)
+  - Upgrading sebastian/recursion-context (3.0.1 => 4.0.4)
+  - Upgrading sebastian/resource-operations (2.0.2 => 3.0.3)
+  - Upgrading sebastian/type (1.1.4 => 3.0.0)
+  - Upgrading sebastian/version (2.0.1 => 3.0.2)
+Writing lock file
+Installing dependencies from lock file (including require-dev)
+Package operations: 6 installs, 17 updates, 1 removal
+  - Removing phpunit/php-token-stream (4.0.4)
+  - Upgrading sebastian/version (2.0.1 => 3.0.2): Extracting archive
+  - Upgrading sebastian/type (1.1.4 => 3.0.0): Extracting archive
+  - Upgrading sebastian/resource-operations (2.0.2 => 3.0.3): Extracting archive
+  - Upgrading sebastian/recursion-context (3.0.1 => 4.0.4): Extracting archive
+  - Upgrading sebastian/object-reflector (1.1.2 => 2.0.4): Extracting archive
+  - Upgrading sebastian/object-enumerator (3.0.4 => 4.0.4): Extracting archive
+  - Upgrading sebastian/global-state (3.0.2 => 5.0.5): Extracting archive
+  - Upgrading sebastian/exporter (3.1.4 => 4.0.4): Extracting archive
+  - Upgrading sebastian/environment (4.2.4 => 5.1.4): Extracting archive
+  - Upgrading sebastian/diff (3.0.3 => 4.0.4): Extracting archive
+  - Upgrading sebastian/comparator (3.0.3 => 4.0.6): Extracting archive
+  - Installing sebastian/code-unit (1.0.8): Extracting archive
+  - Installing sebastian/cli-parser (1.0.1): Extracting archive
+  - Upgrading phpunit/php-timer (2.1.3 => 5.0.3): Extracting archive
+  - Upgrading phpunit/php-text-template (1.2.1 => 2.0.4): Extracting archive
+  - Installing phpunit/php-invoker (3.1.1): Extracting archive
+  - Upgrading phpunit/php-file-iterator (2.0.5 => 3.0.6): Extracting archive
+  - Installing nikic/php-parser (v4.14.0): Extracting archive
+  - Installing sebastian/lines-of-code (1.0.3): Extracting archive
+  - Installing sebastian/complexity (2.0.2): Extracting archive
+  - Upgrading sebastian/code-unit-reverse-lookup (1.0.2 => 2.0.3): Extracting archive
+  - Upgrading phpunit/php-code-coverage (7.0.15 => 9.2.15): Extracting archive
+  - Upgrading phpunit/phpunit (8.5.28 => 9.5.21): Extracting archive
+1 package suggestions were added by new dependencies, use `composer suggest` to see details.
+Generating autoload files
+46 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> .\bin\doctrine
+[Warning] The use of this script is discouraged. See https://www.doctrine-project.org/projects/doctrine-orm/en/current/reference/tools.html#doctrine-console for instructions on bootstrapping the console runner.
+
+
+PHP Fatal error:  Uncaught LogicException: The annotation metadata driver cannot be enabled because the "doctrine/annotations" library is not installed. Please run "composer require doctrine/annotations" or choose a different metadata driver. in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Configuration.php:173
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(86): Doctrine\ORM\Configuration->newDefaultAnnotationDriver(Array, false)
+#1 C:\xampp\htdocs\PHP-MiW-PR1-master\src\Utils.php(52): Doctrine\ORM\Tools\Setup::createAnnotationMetadataConfiguration(Array, true, '', NULL, false)
+#2 C:\xampp\htdocs\PHP-MiW-PR1-master\cli-config.php(31): MiW\Results\Utils::getEntityManager()
+#3 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine.php(51): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine(4): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\PHP-MiW-PR1-master\bin\doctrine(120): include('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Configuration.php on line 173
+
+Fatal error: Uncaught LogicException: The annotation metadata driver cannot be enabled because the "doctrine/annotations" library is not installed. Please run "composer require doctrine/annotations" or choose a different metadata driver. in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Configuration.php:173
+Stack trace:
+#0 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Tools\Setup.php(86): Doctrine\ORM\Configuration->newDefaultAnnotationDriver(Array, false)
+#1 C:\xampp\htdocs\PHP-MiW-PR1-master\src\Utils.php(52): Doctrine\ORM\Tools\Setup::createAnnotationMetadataConfiguration(Array, true, '', NULL, false)
+#2 C:\xampp\htdocs\PHP-MiW-PR1-master\cli-config.php(31): MiW\Results\Utils::getEntityManager()
+#3 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine.php(51): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\bin\doctrine(4): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\PHP-MiW-PR1-master\bin\doctrine(120): include('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\PHP-MiW-PR1-master\vendor\doctrine\orm\lib\Doctrine\ORM\Configuration.php on line 173
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> composer require doctrine/annotations
+Using version ^1.13 for doctrine/annotations
+./composer.json has been updated
+Running composer update doctrine/annotations
+Loading composer repositories with package information
+Updating dependencies
+Lock file operations: 1 install, 0 updates, 0 removals
+  - Locking doctrine/annotations (1.13.3)
+Writing lock file
+Installing dependencies from lock file (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing doctrine/annotations (1.13.3): Extracting archive
+Generating autoload files
+46 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+PS C:\xampp\htdocs\PHP-MiW-PR1-master> .\bin\doctrine
+[Warning] The use of this script is discouraged. See https://www.doctrine-project.org/projects/doctrine-orm/en/current/reference/tools.html#doctrine-console for instructions on bootstrapping the console runner.
+
+
+Doctrine Command Line Interface 2.12.3.0
+
+Usage:
+  command [options] [arguments]
+
+Options:
+  -h, --help            Display help for the given command. When no command is given display help for the list command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi|--no-ansi  Force (or disable --no-ansi) ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+
+Available commands:
+  completion                         Dump the shell completion script
+  help                               Display help for a command
+  list                               List commands
+ dbal
+  dbal:reserved-words                Checks if the current database contains identifiers that are reserved.
+  dbal:run-sql                       Executes arbitrary SQL directly from the command line.
+ orm
+  orm:clear-cache:metadata           Clear all metadata cache of the various cache drivers
+  orm:clear-cache:query              Clear all query cache of the various cache drivers
+  orm:clear-cache:region:collection  Clear a second-level cache collection region  orm:clear-cache:region:entity      Clear a second-level cache entity region
+  orm:clear-cache:region:query       Clear a second-level cache query region
+  orm:clear-cache:result             Clear all result cache of the various cache drivers
+  orm:convert-d1-schema              [orm:convert:d1-schema] Converts Doctrine 1.x schema into a Doctrine 2.x schema
+  orm:convert-mapping                [orm:convert:mapping] Convert mapping information between supported formats
+  orm:ensure-production-settings     Verify that Doctrine is properly configured for a production environment
+  orm:generate-entities              [orm:generate:entities] Generate entity classes and method stubs from your mapping information
+  orm:generate-proxies               [orm:generate:proxies] Generates proxy classes for entity classes
+  orm:generate-repositories          [orm:generate:repositories] Generate repository classes from your mapping information
+  orm:info                           Show basic information about all mapped entities
+  orm:mapping:describe               Display information about mapped objects
+  orm:run-dql                        Executes arbitrary DQL directly from the command line
+  orm:schema-tool:create             Processes the schema and either create it directly on EntityManager Storage Connection or generate the SQL output
+  orm:schema-tool:drop               Drop the complete database schema of EntityManager Storage Connection or generate the corresponding SQL output
+  orm:schema-tool:update             Executes (or dumps) the SQL needed to update the database schema to match the current mapping metadata
+  orm:validate-schema                Validate the mapping files
+PS C:\xampp\htdocs\PHP-MiW-PR1-master>
